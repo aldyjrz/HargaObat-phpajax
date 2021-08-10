@@ -1,1 +1,5 @@
-# HargaObat-phpajax - Native PHP - MySQL
+# HargaObat-phpajax
+
+Native PHP
+Javascrpit
+MySQL
